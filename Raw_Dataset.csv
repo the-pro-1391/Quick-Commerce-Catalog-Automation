@@ -1,0 +1,6 @@
+SKU_ID,Raw_Product_Title,Category,MRP,Grammage,Stock_Status,Clean_title,Clean_Grammage,Final_MRP,Show_In_App
+V-001,fresh onion local,veggies,30,1kg,Active,Fresh Onion Local,1000g,30,TRUE
+I-001,AMUL butterscotch tub,ICE CREAM,,1L,Active,Amul Butterscotch Tub,1000ml,220,TRUE
+V-002,potato (Washed),veggies,45,500 g,Active,Potato (Washed),500g,45,TRUE
+I-002,kwality walls choc,ice creams,250,700ml,Out of Stock,Kwality Walls Choc,700ml,250,FALSE
+V-003,fresh tomato,Veg,0,500g,Active,Fresh Tomato,500g,40,TRUE
